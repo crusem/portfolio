@@ -19,7 +19,7 @@
 
 			&:hover,
 			&:focus {
-				filter: invert(1);
+				filter: brightness(0);
 			}
 		}
 	}
