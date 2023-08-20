@@ -29,8 +29,7 @@
 		display: flex;
 		flex-direction: column;
 		flex-grow: 1;
-		justify-content: center;
-		margin: 0 auto;
+		margin: 0 auto calc(#{$header-and-footer-height} + #{$header-and-footer-padding} + #{$header-and-footer-margin} + 1px);
 		padding: $main-padding;
 		min-height: calc(
 			100vh - 2 * #{$header-and-footer-height} - 2 * #{$header-and-footer-padding} - 2 * #{$header-and-footer-margin} -
@@ -46,13 +45,37 @@
 	}
 
 	:global(h1) {
+		width: fit-content;
 		font-size: 2rem;
 		text-transform: uppercase;
 		padding: 1em 0 0.5em;
+		color: $highlight-color;
+	}
+
+	:global(h2) {
+		width: fit-content;
+		font-size: 1.5rem;
+		padding: 1em 0 0.5em;
+	}
+
+	:global(h3) {
+		width: fit-content;
+		font-size: 1.25rem;
+		padding: 1em 0 0.5em;
+	}
+
+	:global(h1 + p),
+	:global(h2 + p),
+	:global(h3 + p) {
+		padding-top: 0;
 	}
 
 	:global(p) {
 		font-family: serif;
 		padding: 1em 0 0.5em;
+	}
+
+	:global(.mark) {
+		font-weight: 800;
 	}
 </style>

@@ -10,12 +10,13 @@
 	</ul>
 </footer>
 
-<style lang="scss">
+<style lang="scss" scoped>
 	@import '../../styles/variables.scss';
 
 	footer {
-		position: absolute;
+		position: fixed;
 		bottom: 0;
+		background-color: $background-color;
 		display: flex;
 		flex-direction: row;
 		justify-content: flex-end;
