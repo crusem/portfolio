@@ -26,4 +26,12 @@
 		width: 100%;
 		border-radius: 75%;
 	}
+	.image-container {
+    width: 100%;
+    height: 100%; /* 100% viewport height */
+    display: flex;
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
+    overflow: hidden; /* Ensure the image does not overflow its container */
+  }
 </style>

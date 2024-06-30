@@ -1,19 +1,24 @@
 <script>
-	import Image from '../components/atoms/image.svelte';
+	import Image from '/src/components/atoms/image.svelte';
 </script>
 
 <section>
 	<div>
-		<Image baseUrl="/avatar/" alt="A picture of me." className="circle" loading="eager" />
+		<Image baseUrl="/avatar/" className="circle" loading="eager" />
 	</div>
 	<div>
-		<h1>Hello</h1>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-			nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-			esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-			in culpa qui officia deserunt mollit anim id est laborum.
+		<h1>Marissa Cruse</h1>
+		<p>	
+		I was born and raised in the St. Louis area and moved to Nebraska to study Economics at the University of Nebraska - Lincoln. After graduating, I moved to Philadelphia, PA and went on to graduate with my Master's of Urban Spatial Analytics from the University of Pennsylvania. Through my lived experiences and academic training, I have found a passion for combining the power of lived-experiences and data analytics to amplify the voices of the marginalized.
+		</p>
+		<h2>Interests</h2>
+		<p>	
+		Data analytics & data viz, spatial analytics, UI Design, community empowerment, equitable cities, and sustainability!	
+		</p>
+
+		<h2>Skills</h2>
+		<p>	
+		R, Python, HTML, ArcGISPro, Excel, Django, Github,  JavaScript (Beginner), SQL (Beginner), Tableau (Beginner), Svelte (Beginner), Adobe Illustrator (Beginner), Adobe InDesign (Beginner), Canva		
 		</p>
 	</div>
 </section>

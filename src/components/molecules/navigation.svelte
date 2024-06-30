@@ -4,7 +4,13 @@
 			<a href="/">Home</a>
 		</li>
 		<li>
-			<a href="/example">Example</a>
+			<a href="/MMMAP">MMMAP</a>
+		</li>
+		<li>
+			<a href="/predictive_modeling">Predictive Modeling</a>
+		</li>
+		<li>
+			<a href="/data_analytics">More Data Analytics</a>
 		</li>
 	</ul>
 </nav>
