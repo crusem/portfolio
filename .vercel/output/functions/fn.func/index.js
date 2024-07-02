@@ -1177,7 +1177,7 @@ var init_layout_svelte = __esm({
     });
     css$1 = {
       code: "footer.svelte-1cjwvwz.svelte-1cjwvwz{position:fixed;bottom:0;background-color:#0B0B0B;display:flex;flex-direction:row;justify-content:flex-end;margin-top:0.5rem;padding:0.5rem;height:3rem;width:calc(100% - 2 * 0.5rem)}footer.svelte-1cjwvwz ul.svelte-1cjwvwz{display:inherit;gap:1rem}footer.svelte-1cjwvwz ul li.svelte-1cjwvwz{display:inherit;flex-grow:inherit;align-items:center}",
-      map: `{"version":3,"file":"footer.svelte","sources":["footer.svelte"],"sourcesContent":["<script>\\r\\n\\timport GraphicLink from '../atoms/graphicLink.svelte';\\r\\n<\/script>\\r\\n\\r\\n<footer>\\r\\n\\t<ul>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<GraphicLink src=\\"/github.svg\\" url=\\"https://www.github.com\\" alt=\\"github\\" />\\r\\n\\t\\t</li>\\r\\n\\t</ul>\\r\\n</footer>\\r\\n\\r\\n<style lang=\\"scss\\" scoped>footer {\\n  position: fixed;\\n  bottom: 0;\\n  background-color: #0B0B0B;\\n  display: flex;\\n  flex-direction: row;\\n  justify-content: flex-end;\\n  margin-top: 0.5rem;\\n  padding: 0.5rem;\\n  height: 3rem;\\n  width: calc(100% - 2 * 0.5rem);\\n}\\nfooter ul {\\n  display: inherit;\\n  gap: 1rem;\\n}\\nfooter ul li {\\n  display: inherit;\\n  flex-grow: inherit;\\n  align-items: center;\\n}</style>"],"names":[],"mappings":"AAY0B,oCAAO,CAC/B,QAAQ,CAAE,KAAK,CACf,MAAM,CAAE,CAAC,CACT,gBAAgB,CAAE,OAAO,CACzB,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,GAAG,CACnB,eAAe,CAAE,QAAQ,CACzB,UAAU,CAAE,MAAM,CAClB,OAAO,CAAE,MAAM,CACf,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,KAAK,IAAI,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,MAAM,CAC/B,CACA,qBAAM,CAAC,iBAAG,CACR,OAAO,CAAE,OAAO,CAChB,GAAG,CAAE,IACP,CACA,qBAAM,CAAC,EAAE,CAAC,iBAAG,CACX,OAAO,CAAE,OAAO,CAChB,SAAS,CAAE,OAAO,CAClB,WAAW,CAAE,MACf"}`
+      map: `{"version":3,"file":"footer.svelte","sources":["footer.svelte"],"sourcesContent":["<script>\\r\\n\\timport GraphicLink from '../atoms/graphicLink.svelte';\\r\\n<\/script>\\r\\n\\r\\n<footer>\\r\\n\\t<ul>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<GraphicLink src=\\"/github.svg\\" url=\\"https://github.com/crusem\\" alt=\\"github\\" />\\r\\n\\t\\t</li>\\r\\n\\t</ul>\\r\\n</footer>\\r\\n\\r\\n<style lang=\\"scss\\" scoped>footer {\\n  position: fixed;\\n  bottom: 0;\\n  background-color: #0B0B0B;\\n  display: flex;\\n  flex-direction: row;\\n  justify-content: flex-end;\\n  margin-top: 0.5rem;\\n  padding: 0.5rem;\\n  height: 3rem;\\n  width: calc(100% - 2 * 0.5rem);\\n}\\nfooter ul {\\n  display: inherit;\\n  gap: 1rem;\\n}\\nfooter ul li {\\n  display: inherit;\\n  flex-grow: inherit;\\n  align-items: center;\\n}</style>"],"names":[],"mappings":"AAY0B,oCAAO,CAC/B,QAAQ,CAAE,KAAK,CACf,MAAM,CAAE,CAAC,CACT,gBAAgB,CAAE,OAAO,CACzB,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,GAAG,CACnB,eAAe,CAAE,QAAQ,CACzB,UAAU,CAAE,MAAM,CAClB,OAAO,CAAE,MAAM,CACf,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,KAAK,IAAI,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,MAAM,CAC/B,CACA,qBAAM,CAAC,iBAAG,CACR,OAAO,CAAE,OAAO,CAChB,GAAG,CAAE,IACP,CACA,qBAAM,CAAC,EAAE,CAAC,iBAAG,CACX,OAAO,CAAE,OAAO,CAChB,SAAS,CAAE,OAAO,CAClB,WAAW,CAAE,MACf"}`
     };
     Footer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$1);
@@ -1185,7 +1185,7 @@ var init_layout_svelte = __esm({
         $$result,
         {
           src: "/github.svg",
-          url: "https://www.github.com",
+          url: "https://github.com/crusem",
           alt: "github"
         },
         {},
@@ -1217,7 +1217,7 @@ var init__ = __esm({
   ".svelte-kit/output/server/nodes/0.js"() {
     index = 0;
     component = async () => component_cache ?? (component_cache = (await Promise.resolve().then(() => (init_layout_svelte(), layout_svelte_exports))).default);
-    imports = ["_app/immutable/nodes/0.C5ekPnzu.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
+    imports = ["_app/immutable/nodes/0.C6sUpf8t.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
     stylesheets = ["_app/immutable/assets/0.D1sDsJ2l.css"];
     fonts = [];
   }
@@ -1288,7 +1288,7 @@ var init__2 = __esm({
   ".svelte-kit/output/server/nodes/1.js"() {
     index2 = 1;
     component2 = async () => component_cache2 ?? (component_cache2 = (await Promise.resolve().then(() => (init_error_svelte(), error_svelte_exports))).default);
-    imports2 = ["_app/immutable/nodes/1.DHPAji8q.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js", "_app/immutable/chunks/entry.ywS8DckG.js"];
+    imports2 = ["_app/immutable/nodes/1.0raIdcVc.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js", "_app/immutable/chunks/entry.Dd7dGoT-.js"];
     stylesheets2 = [];
     fonts2 = [];
   }
@@ -1703,7 +1703,7 @@ var options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "3uah2x"
+  version_hash: "1aswrci"
 };
 async function get_hooks() {
   return {};
@@ -4686,7 +4686,7 @@ var manifest = (() => {
     assets: /* @__PURE__ */ new Set(["avatar/992w.webp", "favicon.png", "github.svg", "mmmap/992w.webp", "robots.txt", "sounds/992w.webp"]),
     mimeTypes: { ".webp": "image/webp", ".png": "image/png", ".svg": "image/svg+xml", ".txt": "text/plain" },
     _: {
-      client: { "start": "_app/immutable/entry/start.FOM6rKbU.js", "app": "_app/immutable/entry/app.DW31YwAt.js", "imports": ["_app/immutable/entry/start.FOM6rKbU.js", "_app/immutable/chunks/entry.ywS8DckG.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/entry/app.DW31YwAt.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"], "stylesheets": [], "fonts": [], "uses_env_dynamic_public": false },
+      client: { "start": "_app/immutable/entry/start.D7MFeWeY.js", "app": "_app/immutable/entry/app.Cr0VYsow.js", "imports": ["_app/immutable/entry/start.D7MFeWeY.js", "_app/immutable/chunks/entry.Dd7dGoT-.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/entry/app.Cr0VYsow.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"], "stylesheets": [], "fonts": [], "uses_env_dynamic_public": false },
       nodes: [
         __memo(() => Promise.resolve().then(() => (init__(), __exports))),
         __memo(() => Promise.resolve().then(() => (init__2(), __exports2))),
