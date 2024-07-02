@@ -10,7 +10,7 @@ return {
 	assets: new Set(["avatar/992w.webp","favicon.png","github.svg","mmmap/992w.webp","robots.txt","sounds/992w.webp"]),
 	mimeTypes: {".webp":"image/webp",".png":"image/png",".svg":"image/svg+xml",".txt":"text/plain"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.CprzSaJ9.js","app":"_app/immutable/entry/app.BSqhJAQQ.js","imports":["_app/immutable/entry/start.CprzSaJ9.js","_app/immutable/chunks/entry.qpcZs456.js","_app/immutable/chunks/scheduler.BAhLphj5.js","_app/immutable/entry/app.BSqhJAQQ.js","_app/immutable/chunks/scheduler.BAhLphj5.js","_app/immutable/chunks/index.C1dtmE37.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
+		client: {"start":"_app/immutable/entry/start.Xs7PC4c5.js","app":"_app/immutable/entry/app.CbIdyBeL.js","imports":["_app/immutable/entry/start.Xs7PC4c5.js","_app/immutable/chunks/entry.DBNSQUEX.js","_app/immutable/chunks/scheduler.BAhLphj5.js","_app/immutable/entry/app.CbIdyBeL.js","_app/immutable/chunks/scheduler.BAhLphj5.js","_app/immutable/chunks/index.C1dtmE37.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
 		nodes: [
 			__memo(() => import('../output/server/nodes/0.js')),
 			__memo(() => import('../output/server/nodes/1.js')),
