@@ -7,7 +7,7 @@
 			<a href="/MMMAP">MMMAP</a>
 		</li>
 		<li>
-			<a href="/predictive_modeling">Predictive Modeling</a>
+			<a href="/predictive_modeling">Lime X LAB Mobility Insights Competition</a>
 		</li>
 		<li>
 			<a href="/data_analytics">Philadelphia Pedestrian Count Bulletin</a>
