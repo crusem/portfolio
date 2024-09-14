@@ -10,7 +10,7 @@
 			<a href="/predictive_modeling">Predictive Modeling</a>
 		</li>
 		<li>
-			<a href="/data_analytics">More Data Analytics</a>
+			<a href="/data_analytics">Philadelphia Pedestrian Count Bulletin</a>
 		</li>
 	</ul>
 </nav>
