@@ -24,9 +24,5 @@
 </p>
 
 <p>
-  Currently, MMMAP is still in the development phase, meaning that only up to 25 approved users can try out this web application until Spotify approves the user extension request. 
   <a href="https://mmmapproject.com" target="_blank">Click here to visit the site!</a> 
-  If you're interested in making a heatmap, 
-  <a href="mailto:crusemarissa3@gmail.com">reach out to me</a> 
-  so I can add your email to the list of approved users!
 </p>
