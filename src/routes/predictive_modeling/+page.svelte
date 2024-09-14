@@ -6,23 +6,19 @@
   }
 </style>
 
-<h1>Predictive Modeling</h1>
+<h1> Research & Data Analytics @ Lime </h1>
 
-<h2>Predict Heroin Overdose Occurrence to Allocate Prevention Resources in Cincinnati, Ohio</h2>
+<h2>Lime X LAB Mobility Insights Competition</h2>
+<p>
+In 2024, Lime and the League of American Bicyclists launched the Mobility Insights Competition, aiming to collaborate with two U.S. jurisdictions to tackle transportation issues that increase risks for vulnerable road users. This initiative offered jurisdictions a chance to utilize Lime's extensive datasets, including trip and safety analytics, along with expert guidance from Lime's transportation professionals and the League's policy advisors. The goal was to craft data-driven strategies to enhance road safety, reduce incidents, and create a more inclusive transportation environment for pedestrians, cyclists, and micromobility users. 
+</p>
+<p>
+I worked extensively on the bike lane analysis component of this project, employing a difference-in-differences approach to assess the impact of new bike lanes on road safety and usage.</p> 
+</p>
+<p> <strong>Tools Used:</strong> R, QGIS, and SQL </p>
 
 <p>
-This project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania.
+  <a href="#">Read the report here!</a>
+</p>
 
-The objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict risk of overdose occurence in Cincinnati, Ohio. In addition to predicting risk of overdose, this model can serve as a sighting mechanism for harm reduction resources in Cincinnati, Ohio.
-
-<a href="https://crusem.github.io/PPA_Final/" target="_blank">View the Submission Here!</a> </p>
-
-<h2>Predict Asthma Prevalance by Census Tract in Philadelpia, PA</h2>
-
-<p>
-This project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of this project was to build a machine learning algorithm based off of asthma risk factors to predict asthma prevalence in Philadelphia, PA. Our analysis builds a random forest regression model in order to predict asthma prevalence by census tract in the City of Philadelphia, validating our model against the estimated asthma prevalence from the CDC.
-
-<a href="https://crusem.github.io/Final-Python-MC-AFA/" target="_blank">View the Submission Here!</a> </p>
 
