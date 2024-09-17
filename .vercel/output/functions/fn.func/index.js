@@ -1147,11 +1147,11 @@ var init_layout_svelte = __esm({
     init_ssr();
     css$4 = {
       code: "nav.svelte-1g9cxsx.svelte-1g9cxsx{height:100%}nav.svelte-1g9cxsx ul.svelte-1g9cxsx{display:flex;flex-direction:row;height:inherit}nav.svelte-1g9cxsx ul li.svelte-1g9cxsx{display:inherit;align-items:center}nav.svelte-1g9cxsx ul li a.svelte-1g9cxsx{display:flex;flex-direction:column;justify-content:center;padding:0 1rem;height:100%;width:100%;color:inherit;text-transform:uppercase;text-decoration:none;text-align:center}nav.svelte-1g9cxsx ul li a.svelte-1g9cxsx:hover,nav.svelte-1g9cxsx ul li a.svelte-1g9cxsx:focus{background-color:#fff;color:#0B0B0B}",
-      map: '{"version":3,"file":"navigation.svelte","sources":["navigation.svelte"],"sourcesContent":["<nav>\\r\\n\\t<ul>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/\\">Home</a>\\r\\n\\t\\t</li>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/MMMAP\\">MMMAP</a>\\r\\n\\t\\t</li>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/predictive_modeling\\">Predictive Modeling</a>\\r\\n\\t\\t</li>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/data_analytics\\">More Data Analytics</a>\\r\\n\\t\\t</li>\\r\\n\\t</ul>\\r\\n</nav>\\r\\n\\r\\n<style lang=\\"scss\\">nav {\\n  height: 100%;\\n}\\nnav ul {\\n  display: flex;\\n  flex-direction: row;\\n  height: inherit;\\n}\\nnav ul li {\\n  display: inherit;\\n  align-items: center;\\n}\\nnav ul li a {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  padding: 0 1rem;\\n  height: 100%;\\n  width: 100%;\\n  color: inherit;\\n  text-transform: uppercase;\\n  text-decoration: none;\\n  text-align: center;\\n}\\nnav ul li a:hover, nav ul li a:focus {\\n  background-color: #fff;\\n  color: #0B0B0B;\\n}</style>\\r\\n"],"names":[],"mappings":"AAiBmB,iCAAI,CACrB,MAAM,CAAE,IACV,CACA,kBAAG,CAAC,iBAAG,CACL,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,GAAG,CACnB,MAAM,CAAE,OACV,CACA,kBAAG,CAAC,EAAE,CAAC,iBAAG,CACR,OAAO,CAAE,OAAO,CAChB,WAAW,CAAE,MACf,CACA,kBAAG,CAAC,EAAE,CAAC,EAAE,CAAC,gBAAE,CACV,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,eAAe,CAAE,MAAM,CACvB,OAAO,CAAE,CAAC,CAAC,IAAI,CACf,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,IAAI,CACX,KAAK,CAAE,OAAO,CACd,cAAc,CAAE,SAAS,CACzB,eAAe,CAAE,IAAI,CACrB,UAAU,CAAE,MACd,CACA,kBAAG,CAAC,EAAE,CAAC,EAAE,CAAC,gBAAC,MAAM,CAAE,kBAAG,CAAC,EAAE,CAAC,EAAE,CAAC,gBAAC,MAAO,CACnC,gBAAgB,CAAE,IAAI,CACtB,KAAK,CAAE,OACT"}'
+      map: '{"version":3,"file":"navigation.svelte","sources":["navigation.svelte"],"sourcesContent":["<nav>\\r\\n\\t<ul>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/\\">Home</a>\\r\\n\\t\\t</li>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/MMMAP\\">MMMAP</a>\\r\\n\\t\\t</li>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/Lime\\">Research & Data Analytics @ Lime</a>\\r\\n\\t\\t</li>\\r\\n\\t\\t<li>\\r\\n\\t\\t\\t<a href=\\"/DVRPC\\">Data Analytics @ DVRPC</a>\\r\\n\\t\\t</li>\\r\\n\\t</ul>\\r\\n</nav>\\r\\n\\r\\n<style lang=\\"scss\\">nav {\\n  height: 100%;\\n}\\nnav ul {\\n  display: flex;\\n  flex-direction: row;\\n  height: inherit;\\n}\\nnav ul li {\\n  display: inherit;\\n  align-items: center;\\n}\\nnav ul li a {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  padding: 0 1rem;\\n  height: 100%;\\n  width: 100%;\\n  color: inherit;\\n  text-transform: uppercase;\\n  text-decoration: none;\\n  text-align: center;\\n}\\nnav ul li a:hover, nav ul li a:focus {\\n  background-color: #fff;\\n  color: #0B0B0B;\\n}</style>\\r\\n"],"names":[],"mappings":"AAiBmB,iCAAI,CACrB,MAAM,CAAE,IACV,CACA,kBAAG,CAAC,iBAAG,CACL,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,GAAG,CACnB,MAAM,CAAE,OACV,CACA,kBAAG,CAAC,EAAE,CAAC,iBAAG,CACR,OAAO,CAAE,OAAO,CAChB,WAAW,CAAE,MACf,CACA,kBAAG,CAAC,EAAE,CAAC,EAAE,CAAC,gBAAE,CACV,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,eAAe,CAAE,MAAM,CACvB,OAAO,CAAE,CAAC,CAAC,IAAI,CACf,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,IAAI,CACX,KAAK,CAAE,OAAO,CACd,cAAc,CAAE,SAAS,CACzB,eAAe,CAAE,IAAI,CACrB,UAAU,CAAE,MACd,CACA,kBAAG,CAAC,EAAE,CAAC,EAAE,CAAC,gBAAC,MAAM,CAAE,kBAAG,CAAC,EAAE,CAAC,EAAE,CAAC,gBAAC,MAAO,CACnC,gBAAgB,CAAE,IAAI,CACtB,KAAK,CAAE,OACT"}'
     };
     Navigation = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css$4);
-      return `<nav class="svelte-1g9cxsx" data-svelte-h="svelte-914ph9"><ul class="svelte-1g9cxsx"><li class="svelte-1g9cxsx"><a href="/" class="svelte-1g9cxsx">Home</a></li> <li class="svelte-1g9cxsx"><a href="/MMMAP" class="svelte-1g9cxsx">MMMAP</a></li> <li class="svelte-1g9cxsx"><a href="/predictive_modeling" class="svelte-1g9cxsx">Predictive Modeling</a></li> <li class="svelte-1g9cxsx"><a href="/data_analytics" class="svelte-1g9cxsx">More Data Analytics</a></li></ul> </nav>`;
+      return `<nav class="svelte-1g9cxsx" data-svelte-h="svelte-18ayevn"><ul class="svelte-1g9cxsx"><li class="svelte-1g9cxsx"><a href="/" class="svelte-1g9cxsx">Home</a></li> <li class="svelte-1g9cxsx"><a href="/MMMAP" class="svelte-1g9cxsx">MMMAP</a></li> <li class="svelte-1g9cxsx"><a href="/Lime" class="svelte-1g9cxsx">Research &amp; Data Analytics @ Lime</a></li> <li class="svelte-1g9cxsx"><a href="/DVRPC" class="svelte-1g9cxsx">Data Analytics @ DVRPC</a></li></ul> </nav>`;
     });
     css$3 = {
       code: "header.svelte-k7cg9y{position:sticky;top:0;background-color:#0B0B0B;margin-bottom:0.5rem;padding:0.5rem;height:3rem;width:calc(100% - 2 * 0.5rem)}",
@@ -1217,7 +1217,7 @@ var init__ = __esm({
   ".svelte-kit/output/server/nodes/0.js"() {
     index = 0;
     component = async () => component_cache ?? (component_cache = (await Promise.resolve().then(() => (init_layout_svelte(), layout_svelte_exports))).default);
-    imports = ["_app/immutable/nodes/0.C6sUpf8t.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
+    imports = ["_app/immutable/nodes/0.D4TQnYW4.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
     stylesheets = ["_app/immutable/assets/0.D1sDsJ2l.css"];
     fonts = [];
   }
@@ -1288,7 +1288,7 @@ var init__2 = __esm({
   ".svelte-kit/output/server/nodes/1.js"() {
     index2 = 1;
     component2 = async () => component_cache2 ?? (component_cache2 = (await Promise.resolve().then(() => (init_error_svelte(), error_svelte_exports))).default);
-    imports2 = ["_app/immutable/nodes/1.0raIdcVc.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js", "_app/immutable/chunks/entry.Dd7dGoT-.js"];
+    imports2 = ["_app/immutable/nodes/1.DN2sDKgW.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js", "_app/immutable/chunks/entry.DDd0QH30.js"];
     stylesheets2 = [];
     fonts2 = [];
   }
@@ -1370,37 +1370,23 @@ var init__3 = __esm({
   }
 });
 
-// .svelte-kit/output/server/entries/pages/data_analytics/_page.svelte.js
+// .svelte-kit/output/server/entries/pages/DVRPC/_page.svelte.js
 var page_svelte_exports2 = {};
 __export(page_svelte_exports2, {
   default: () => Page2
 });
 var css4, Page2;
 var init_page_svelte2 = __esm({
-  ".svelte-kit/output/server/entries/pages/data_analytics/_page.svelte.js"() {
+  ".svelte-kit/output/server/entries/pages/DVRPC/_page.svelte.js"() {
     init_ssr();
     css4 = {
       code: "p.svelte-fx0rzy a.svelte-fx0rzy{color:inherit;text-decoration:underline}",
-      map: '{"version":3,"file":"+page.svelte","sources":["+page.svelte"],"sourcesContent":["<style>\\r\\n  /* Style the <a> tags to inherit color from their parent <p> */\\r\\n  p a {\\r\\n    color: inherit;\\r\\n    text-decoration: underline; /* Optional: Add underline to links */\\r\\n  }\\r\\n</style>\\r\\n\\r\\n<h1>Data Analytics: Work Samples</h1>\\r\\n<p>\\r\\nDelve into a selection of assignments showcasing my skills developed during the first semester of the Master of Urban Spatial Analytics program. While these assignments are not complete projects, they serve as a testament to my proficiency in R and Python. The showcased work reflects foundational knowledge in areas such as machine learning, resource allocation, cost-benefit analysis, data visualization, and predictive modeling.\\r\\n</p>\\r\\n\\r\\n<h2>Exploring Evictions and Code Violations & Comparing the NDVI in Philadelphia, PA</h2>\\r\\n<p>\\r\\nThis project was submitted during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe objective of the first part of this assignment was to create vizualizations displaying eviction and code violation data in Philadelphia, PA. The objective of the second part of the assignment is to calculate and compare the NDVi in the suburbs and city of Philadelphia, PA.\\r\\n<a href=\\"https://crusem.github.io/assignment_sample_4/\\" target=\\"_blank\\">View the Submission Here!</a> </p>\\r\\n\\r\\n<h2>Vizualizing Arrest Data in Philadelphia, PA Using Python</h2>\\r\\n<p>\\r\\nThis project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe objective of this assignment was to gain familiarity using the altair, seaborn, and matplotlib packages in python to create interesting and interactive data vizualizations.\\r\\n<a href=\\"https://crusem.github.io/assignment_sample_1/\\" target=\\"_blank\\">View the Submission Here!</a> </p>\\r\\n\\r\\n<h2>Street Networks and Webscraping Using Python</h2>\\r\\n<p>\\r\\nThis project was submitted by Marissa Cruse during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe objective of the first part of the assignment was to create vizualizations to display crash incidence data to a street network. The objective of the second part of the assignment was to use web scraping to extract craigslist apartment listing data and create vizualizations.\\r\\n<a href=\\"https://crusem.github.io/assignment_sample_2/\\" target=\\"_blank\\">View the Submission Here!</a> </p>\\r\\n\\r\\n<h2>Targeting a Housing Subsidy</h2>\\r\\n<p>\\r\\nThis project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe objective of this assignment was to train the best classifier and use the results to inform a cost/benefit analysis for a housing subsidy using R.\\r\\n<a href=\\"https://crusem.github.io/assignment_sample_3/\\" target=\\"_blank\\">View the Submission Here!</a> </p>\\r\\n\\r\\n<h2>Exploring Yelp Reviews in Philadelphia Using Python</h2>\\r\\n<p>\\r\\nThis project was submitted during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe first objective of this assignment was to analyze the correlation between restaurant reviews and income. The second objective was to conducting a sentiment analysis on resturaunt reviews.\\r\\n<a href=\\"https://crusem.github.io/assignment_sample_5/\\" target=\\"_blank\\">View the Submission Here!</a> </p>"],"names":[],"mappings":"AAEE,eAAC,CAAC,eAAE,CACF,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,SACnB"}'
+      map: `{"version":3,"file":"+page.svelte","sources":["+page.svelte"],"sourcesContent":["<style>\\r\\n  /* Style the <a> tags to inherit color from their parent <p> */\\r\\n  p a {\\r\\n    color: inherit;\\r\\n    text-decoration: underline; /* Optional: Add underline to links */\\r\\n  }\\r\\n</style>\\r\\n\\r\\n<h1>DVRPC Pedestrian Count Bulletin</h1>\\r\\n<p>\\r\\n  Explore insights from the Pedestrian Count Bulletin series, investigating what variables shape pedestrian activity in the greater Philadelphia region. I conducted this analysis during my time at the Delaware Valley Regional Planning Commission as a transportation planning intern. </p>\\r\\n<p>\\r\\n<strong>Tools Used:</strong> R, ArcGIS Pro.\\r\\n</p>\\r\\n\\r\\n<h2><strong>#1 Behind the Data:</strong> Uncovering the Impact of College Population and Transit Access on Philadelphia's Pedestrian Activity</h2>\\r\\n<p>\\r\\nThis is the first article in a series of four data bulletins that analyze whether and how different variables affect pedestrian counts. Using data from DVRPC\u2019s cyclical pedestrian count program, planners looked at how college population and transit access may impact pedestrian activity in the City of Philadelphia. It was found that college population and transit activity density significantly influence pedestrian counts, confirming that stratifying census tracts based on these factors effectively captures variations in pedestrian activity levels.\\r\\n<a href=\\"https://dvrpc.org/news/2024/pedestrian-data-bulletin-philadelphia/\\" target=\\"_blank\\">Read the Article Here!</a> </p>\\r\\n\\r\\n<h2>Bulletin #2</h2>\\r\\n<p>\\r\\nComing soon!</p>\\r\\n\\r\\n<h2>Bulletin #3</h2>\\r\\n<p>\\r\\nComing soon!</p>\\r\\n\\r\\n<h2>Bulletin #4</h2>\\r\\n<p>\\r\\nComing soon!</p>\\r\\n"],"names":[],"mappings":"AAEE,eAAC,CAAC,eAAE,CACF,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,SACnB"}`
     };
     Page2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css4);
-      return `<h1 data-svelte-h="svelte-hkln8s">Data Analytics: Work Samples</h1> <p data-svelte-h="svelte-16y1bbo">Delve into a selection of assignments showcasing my skills developed during the first semester of the Master of Urban Spatial Analytics program. While these assignments are not complete projects, they serve as a testament to my proficiency in R and Python. The showcased work reflects foundational knowledge in areas such as machine learning, resource allocation, cost-benefit analysis, data visualization, and predictive modeling.</p> <h2 data-svelte-h="svelte-bdthrb">Exploring Evictions and Code Violations &amp; Comparing the NDVI in Philadelphia, PA</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-1lp9n4y">This project was submitted during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of the first part of this assignment was to create vizualizations displaying eviction and code violation data in Philadelphia, PA. The objective of the second part of the assignment is to calculate and compare the NDVi in the suburbs and city of Philadelphia, PA.
-<a href="https://crusem.github.io/assignment_sample_4/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p> <h2 data-svelte-h="svelte-1wo0hmw">Vizualizing Arrest Data in Philadelphia, PA Using Python</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-21zz0m">This project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of this assignment was to gain familiarity using the altair, seaborn, and matplotlib packages in python to create interesting and interactive data vizualizations.
-<a href="https://crusem.github.io/assignment_sample_1/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p> <h2 data-svelte-h="svelte-1g0ey7u">Street Networks and Webscraping Using Python</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-du2vwe">This project was submitted by Marissa Cruse during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of the first part of the assignment was to create vizualizations to display crash incidence data to a street network. The objective of the second part of the assignment was to use web scraping to extract craigslist apartment listing data and create vizualizations.
-<a href="https://crusem.github.io/assignment_sample_2/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p> <h2 data-svelte-h="svelte-t5dzwc">Targeting a Housing Subsidy</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-101s7hh">This project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of this assignment was to train the best classifier and use the results to inform a cost/benefit analysis for a housing subsidy using R.
-<a href="https://crusem.github.io/assignment_sample_3/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p> <h2 data-svelte-h="svelte-1oawmyl">Exploring Yelp Reviews in Philadelphia Using Python</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-wufa6b">This project was submitted during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.
-
-The first objective of this assignment was to analyze the correlation between restaurant reviews and income. The second objective was to conducting a sentiment analysis on resturaunt reviews.
-<a href="https://crusem.github.io/assignment_sample_5/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p>`;
+      return `<h1 data-svelte-h="svelte-24wkm">DVRPC Pedestrian Count Bulletin</h1> <p data-svelte-h="svelte-uof85h">Explore insights from the Pedestrian Count Bulletin series, investigating what variables shape pedestrian activity in the greater Philadelphia region. I conducted this analysis during my time at the Delaware Valley Regional Planning Commission as a transportation planning intern.</p> <p data-svelte-h="svelte-1ts5e2n"><strong>Tools Used:</strong> R, ArcGIS Pro.</p> <h2 data-svelte-h="svelte-1btkny0"><strong>#1 Behind the Data:</strong> Uncovering the Impact of College Population and Transit Access on Philadelphia&#39;s Pedestrian Activity</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-1hjl6gr">This is the first article in a series of four data bulletins that analyze whether and how different variables affect pedestrian counts. Using data from DVRPC\u2019s cyclical pedestrian count program, planners looked at how college population and transit access may impact pedestrian activity in the City of Philadelphia. It was found that college population and transit activity density significantly influence pedestrian counts, confirming that stratifying census tracts based on these factors effectively captures variations in pedestrian activity levels.
+<a href="https://dvrpc.org/news/2024/pedestrian-data-bulletin-philadelphia/" target="_blank" class="svelte-fx0rzy">Read the Article Here!</a></p> <h2 data-svelte-h="svelte-6ifa2u">Bulletin #2</h2> <p data-svelte-h="svelte-cazm5z">Coming soon!</p> <h2 data-svelte-h="svelte-15q5nln">Bulletin #3</h2> <p data-svelte-h="svelte-cazm5z">Coming soon!</p> <h2 data-svelte-h="svelte-vqbjr4">Bulletin #4</h2> <p data-svelte-h="svelte-cazm5z">Coming soon!</p>`;
     });
   }
 });
@@ -1419,42 +1405,28 @@ var init__4 = __esm({
   ".svelte-kit/output/server/nodes/3.js"() {
     index4 = 3;
     component4 = async () => component_cache4 ?? (component_cache4 = (await Promise.resolve().then(() => (init_page_svelte2(), page_svelte_exports2))).default);
-    imports4 = ["_app/immutable/nodes/3.Fx4_tDNb.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
+    imports4 = ["_app/immutable/nodes/3.CeH3PY4X.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
     stylesheets4 = ["_app/immutable/assets/3.CdncdU4U.css"];
     fonts4 = [];
   }
 });
 
-// .svelte-kit/output/server/entries/pages/MMMAP/_page.svelte.js
+// .svelte-kit/output/server/entries/pages/Lime/_page.svelte.js
 var page_svelte_exports3 = {};
 __export(page_svelte_exports3, {
   default: () => Page3
 });
 var css5, Page3;
 var init_page_svelte3 = __esm({
-  ".svelte-kit/output/server/entries/pages/MMMAP/_page.svelte.js"() {
+  ".svelte-kit/output/server/entries/pages/Lime/_page.svelte.js"() {
     init_ssr();
-    init_image();
     css5 = {
       code: "p.svelte-fx0rzy a.svelte-fx0rzy{color:inherit;text-decoration:underline}",
-      map: `{"version":3,"file":"+page.svelte","sources":["+page.svelte"],"sourcesContent":["<script>\\r\\n\\timport Image from '../../components/atoms/image.svelte';\\r\\n<\/script>\\r\\n\\r\\n<style>\\r\\n  /* Style the <a> tags to inherit color from their parent <p> */\\r\\n  p a {\\r\\n    color: inherit;\\r\\n    text-decoration: underline; /* Optional: Add underline to links */\\r\\n  }\\r\\n</style>\\r\\n\\r\\n<h1>MMMap</h1>\\r\\n<div>\\r\\n  <!-- Example using a custom Image component -->\\r\\n  <Image baseUrl=\\"/mmmap/\\" className = image-container alt=\\"Description of your image\\" />\\r\\n</div>\\r\\n<p>\\r\\n  MMMap is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.\\r\\n</p>\\r\\n\\r\\n<p>\\r\\n  To begin making a user's custom map, MMMap utilizes the Spotify API to fetch user's saved tracks. Next, for each artist in a user's library, there is a frequeny value that represents the number of times the artist is represented in the user's library. After using webscraping to extract each artist's birthplace and geocoding the provided birthplace, MMMap creates a heatmap! The MMMap database contains over 84,000 artists provided by Localify, a platform that personalizes local music recommendations by integrating Spotify playlists with tracks from local artists. Each time a new user uses MMMap, the artists they listen to are added to MMMap's  database.\\r\\n</p>\\r\\n\\r\\n<p>\\r\\n  Currently, MMMAP is still in the development phase, meaning that only up to 25 approved users can try out this web application until Spotify approves the user extension request. \\r\\n  <a href=\\"https://mmmapproject.com\\" target=\\"_blank\\">Click here to visit the site!</a> \\r\\n  If you're interested in making a heatmap, \\r\\n  <a href=\\"mailto:crusemarissa3@gmail.com\\">reach out to me</a> \\r\\n  so I can add your email to the list of approved users!\\r\\n</p>"],"names":[],"mappings":"AAME,eAAC,CAAC,eAAE,CACF,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,SACnB"}`
+      map: `{"version":3,"file":"+page.svelte","sources":["+page.svelte"],"sourcesContent":["<style>\\r\\n  /* Style the <a> tags to inherit color from their parent <p> */\\r\\n  p a {\\r\\n    color: inherit;\\r\\n    text-decoration: underline; /* Optional: Add underline to links */\\r\\n  }\\r\\n</style>\\r\\n\\r\\n<h1> Research & Data Analytics @ Lime </h1>\\r\\n\\r\\n<h2>Lime X LAB Mobility Insights Competition</h2>\\r\\n<p>\\r\\nIn 2024, Lime and the League of American Bicyclists launched the Mobility Insights Competition, aiming to collaborate with two U.S. jurisdictions to tackle transportation issues that increase risks for vulnerable road users. This initiative offered jurisdictions a chance to utilize Lime's extensive datasets, including trip and safety analytics, along with expert guidance from Lime's transportation professionals and the League's policy advisors. The goal was to craft data-driven strategies to enhance road safety, reduce incidents, and create a more inclusive transportation environment for pedestrians, cyclists, and micromobility users. \\r\\n</p>\\r\\n<p>\\r\\nI worked extensively on the bike lane analysis component of this project, employing a difference-in-differences approach to assess the impact of new bike lanes on road safety and usage.</p> \\r\\n<p> <strong>Tools Used:</strong> R, QGIS, and SQL </p>\\r\\n\\r\\n<p>\\r\\n  <a href=\\"#\\">Read the report here!</a>\\r\\n</p>\\r\\n\\r\\n\\r\\n"],"names":[],"mappings":"AAEE,eAAC,CAAC,eAAE,CACF,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,SACnB"}`
     };
     Page3 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css5);
-      return `<h1 data-svelte-h="svelte-63oanm">MMMap</h1> <div> ${validate_component(Image, "Image").$$render(
-        $$result,
-        {
-          baseUrl: "/mmmap/",
-          className: "image-container",
-          alt: "Description of your image"
-        },
-        {},
-        {}
-      )}</div> <p data-svelte-h="svelte-1lkhgd">MMMap is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.</p> <p data-svelte-h="svelte-14h9jvm">To begin making a user&#39;s custom map, MMMap utilizes the Spotify API to fetch user&#39;s saved tracks. Next, for each artist in a user&#39;s library, there is a frequeny value that represents the number of times the artist is represented in the user&#39;s library. After using webscraping to extract each artist&#39;s birthplace and geocoding the provided birthplace, MMMap creates a heatmap! The MMMap database contains over 84,000 artists provided by Localify, a platform that personalizes local music recommendations by integrating Spotify playlists with tracks from local artists. Each time a new user uses MMMap, the artists they listen to are added to MMMap&#39;s  database.</p> <p class="svelte-fx0rzy" data-svelte-h="svelte-jr809c">Currently, MMMAP is still in the development phase, meaning that only up to 25 approved users can try out this web application until Spotify approves the user extension request. 
-  <a href="https://mmmapproject.com" target="_blank" class="svelte-fx0rzy">Click here to visit the site!</a> 
-  If you&#39;re interested in making a heatmap, 
-  <a href="mailto:crusemarissa3@gmail.com" class="svelte-fx0rzy">reach out to me</a> 
-  so I can add your email to the list of approved users!</p>`;
+      return `<h1 data-svelte-h="svelte-1bkr90q">Research &amp; Data Analytics @ Lime</h1> <h2 data-svelte-h="svelte-1vjcrp">Lime X LAB Mobility Insights Competition</h2> <p data-svelte-h="svelte-cugku8">In 2024, Lime and the League of American Bicyclists launched the Mobility Insights Competition, aiming to collaborate with two U.S. jurisdictions to tackle transportation issues that increase risks for vulnerable road users. This initiative offered jurisdictions a chance to utilize Lime&#39;s extensive datasets, including trip and safety analytics, along with expert guidance from Lime&#39;s transportation professionals and the League&#39;s policy advisors. The goal was to craft data-driven strategies to enhance road safety, reduce incidents, and create a more inclusive transportation environment for pedestrians, cyclists, and micromobility users.</p> <p data-svelte-h="svelte-1fiq8hk">I worked extensively on the bike lane analysis component of this project, employing a difference-in-differences approach to assess the impact of new bike lanes on road safety and usage.</p> <p data-svelte-h="svelte-18jurig"><strong>Tools Used:</strong> R, QGIS, and SQL</p> <p class="svelte-fx0rzy" data-svelte-h="svelte-rod6a4"><a href="#" class="svelte-fx0rzy">Read the report here!</a></p>`;
     });
   }
 });
@@ -1473,36 +1445,38 @@ var init__5 = __esm({
   ".svelte-kit/output/server/nodes/4.js"() {
     index5 = 4;
     component5 = async () => component_cache5 ?? (component_cache5 = (await Promise.resolve().then(() => (init_page_svelte3(), page_svelte_exports3))).default);
-    imports5 = ["_app/immutable/nodes/4.CxO8mjWC.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js", "_app/immutable/chunks/image.QeTrz-hT.js"];
-    stylesheets5 = ["_app/immutable/assets/3.CdncdU4U.css", "_app/immutable/assets/image.BZeFIGn_.css"];
+    imports5 = ["_app/immutable/nodes/4.u6s-kSXv.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
+    stylesheets5 = ["_app/immutable/assets/3.CdncdU4U.css"];
     fonts5 = [];
   }
 });
 
-// .svelte-kit/output/server/entries/pages/predictive_modeling/_page.svelte.js
+// .svelte-kit/output/server/entries/pages/MMMAP/_page.svelte.js
 var page_svelte_exports4 = {};
 __export(page_svelte_exports4, {
   default: () => Page4
 });
 var css6, Page4;
 var init_page_svelte4 = __esm({
-  ".svelte-kit/output/server/entries/pages/predictive_modeling/_page.svelte.js"() {
+  ".svelte-kit/output/server/entries/pages/MMMAP/_page.svelte.js"() {
     init_ssr();
+    init_image();
     css6 = {
       code: "p.svelte-fx0rzy a.svelte-fx0rzy{color:inherit;text-decoration:underline}",
-      map: '{"version":3,"file":"+page.svelte","sources":["+page.svelte"],"sourcesContent":["<style>\\r\\n  /* Style the <a> tags to inherit color from their parent <p> */\\r\\n  p a {\\r\\n    color: inherit;\\r\\n    text-decoration: underline; /* Optional: Add underline to links */\\r\\n  }\\r\\n</style>\\r\\n\\r\\n<h1>Predictive Modeling</h1>\\r\\n\\r\\n<h2>Predict Heroin Overdose Occurrence to Allocate Prevention Resources in Cincinnati, Ohio</h2>\\r\\n\\r\\n<p>\\r\\nThis project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict risk of overdose occurence in Cincinnati, Ohio. In addition to predicting risk of overdose, this model can serve as a sighting mechanism for harm reduction resources in Cincinnati, Ohio.\\r\\n\\r\\n<a href=\\"https://crusem.github.io/PPA_Final/\\" target=\\"_blank\\">View the Submission Here!</a> </p>\\r\\n\\r\\n<h2>Predict Asthma Prevalance by Census Tract in Philadelpia, PA</h2>\\r\\n\\r\\n<p>\\r\\nThis project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.\\r\\n\\r\\nThe objective of this project was to build a machine learning algorithm based off of asthma risk factors to predict asthma prevalence in Philadelphia, PA. Our analysis builds a random forest regression model in order to predict asthma prevalence by census tract in the City of Philadelphia, validating our model against the estimated asthma prevalence from the CDC.\\r\\n\\r\\n<a href=\\"https://crusem.github.io/Final-Python-MC-AFA/\\" target=\\"_blank\\">View the Submission Here!</a> </p>\\r\\n\\r\\n"],"names":[],"mappings":"AAEE,eAAC,CAAC,eAAE,CACF,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,SACnB"}'
+      map: `{"version":3,"file":"+page.svelte","sources":["+page.svelte"],"sourcesContent":["<script>\\r\\n\\timport Image from '../../components/atoms/image.svelte';\\r\\n<\/script>\\r\\n\\r\\n<style>\\r\\n  /* Style the <a> tags to inherit color from their parent <p> */\\r\\n  p a {\\r\\n    color: inherit;\\r\\n    text-decoration: underline; /* Optional: Add underline to links */\\r\\n  }\\r\\n</style>\\r\\n\\r\\n<h1>MMMap</h1>\\r\\n<div>\\r\\n  <!-- Example using a custom Image component -->\\r\\n  <Image baseUrl=\\"/mmmap/\\" className = image-container alt=\\"Description of your image\\" />\\r\\n</div>\\r\\n<p>\\r\\n  MMMap is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.\\r\\n</p>\\r\\n\\r\\n<p>\\r\\n  To begin making a user's custom map, MMMap utilizes the Spotify API to fetch user's saved tracks. Next, for each artist in a user's library, there is a frequeny value that represents the number of times the artist is represented in the user's library. After using webscraping to extract each artist's birthplace and geocoding the provided birthplace, MMMap creates a heatmap! The MMMap database contains over 84,000 artists provided by Localify, a platform that personalizes local music recommendations by integrating Spotify playlists with tracks from local artists. Each time a new user uses MMMap, the artists they listen to are added to MMMap's  database.\\r\\n</p>\\r\\n\\r\\n<p>\\r\\n  <a href=\\"https://mmmapproject.com\\" target=\\"_blank\\">Click here to visit the site!</a> \\r\\n</p>\\r\\n"],"names":[],"mappings":"AAME,eAAC,CAAC,eAAE,CACF,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,SACnB"}`
     };
     Page4 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css6);
-      return `<h1 data-svelte-h="svelte-e50jy6">Predictive Modeling</h1> <h2 data-svelte-h="svelte-1acf2k1">Predict Heroin Overdose Occurrence to Allocate Prevention Resources in Cincinnati, Ohio</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-1wh3xyp">This project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict risk of overdose occurence in Cincinnati, Ohio. In addition to predicting risk of overdose, this model can serve as a sighting mechanism for harm reduction resources in Cincinnati, Ohio.
-
-<a href="https://crusem.github.io/PPA_Final/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p> <h2 data-svelte-h="svelte-ck7fbh">Predict Asthma Prevalance by Census Tract in Philadelpia, PA</h2> <p class="svelte-fx0rzy" data-svelte-h="svelte-9tu6ao">This project was submitted by Marissa Cruse and Alyssa Felix-Arreola during the 2023 Fall semester for Geospatial Data Science in Python at the Weitzman School of Design at the University of Pennsylvania.
-
-The objective of this project was to build a machine learning algorithm based off of asthma risk factors to predict asthma prevalence in Philadelphia, PA. Our analysis builds a random forest regression model in order to predict asthma prevalence by census tract in the City of Philadelphia, validating our model against the estimated asthma prevalence from the CDC.
-
-<a href="https://crusem.github.io/Final-Python-MC-AFA/" target="_blank" class="svelte-fx0rzy">View the Submission Here!</a></p>`;
+      return `<h1 data-svelte-h="svelte-63oanm">MMMap</h1> <div> ${validate_component(Image, "Image").$$render(
+        $$result,
+        {
+          baseUrl: "/mmmap/",
+          className: "image-container",
+          alt: "Description of your image"
+        },
+        {},
+        {}
+      )}</div> <p data-svelte-h="svelte-1lkhgd">MMMap is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.</p> <p data-svelte-h="svelte-14h9jvm">To begin making a user&#39;s custom map, MMMap utilizes the Spotify API to fetch user&#39;s saved tracks. Next, for each artist in a user&#39;s library, there is a frequeny value that represents the number of times the artist is represented in the user&#39;s library. After using webscraping to extract each artist&#39;s birthplace and geocoding the provided birthplace, MMMap creates a heatmap! The MMMap database contains over 84,000 artists provided by Localify, a platform that personalizes local music recommendations by integrating Spotify playlists with tracks from local artists. Each time a new user uses MMMap, the artists they listen to are added to MMMap&#39;s  database.</p> <p class="svelte-fx0rzy" data-svelte-h="svelte-1wz6ffy"><a href="https://mmmapproject.com" target="_blank" class="svelte-fx0rzy">Click here to visit the site!</a></p>`;
     });
   }
 });
@@ -1521,8 +1495,8 @@ var init__6 = __esm({
   ".svelte-kit/output/server/nodes/5.js"() {
     index6 = 5;
     component6 = async () => component_cache6 ?? (component_cache6 = (await Promise.resolve().then(() => (init_page_svelte4(), page_svelte_exports4))).default);
-    imports6 = ["_app/immutable/nodes/5.B_AcWfuy.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"];
-    stylesheets6 = ["_app/immutable/assets/3.CdncdU4U.css"];
+    imports6 = ["_app/immutable/nodes/5.DoQdc5qQ.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js", "_app/immutable/chunks/image.QeTrz-hT.js"];
+    stylesheets6 = ["_app/immutable/assets/3.CdncdU4U.css", "_app/immutable/assets/image.BZeFIGn_.css"];
     fonts6 = [];
   }
 });
@@ -1703,7 +1677,7 @@ var options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "1aswrci"
+  version_hash: "1k25aon"
 };
 async function get_hooks() {
   return {};
@@ -4686,7 +4660,7 @@ var manifest = (() => {
     assets: /* @__PURE__ */ new Set(["avatar/992w.webp", "favicon.png", "github.svg", "mmmap/992w.webp", "robots.txt", "sounds/992w.webp"]),
     mimeTypes: { ".webp": "image/webp", ".png": "image/png", ".svg": "image/svg+xml", ".txt": "text/plain" },
     _: {
-      client: { "start": "_app/immutable/entry/start.D7MFeWeY.js", "app": "_app/immutable/entry/app.Cr0VYsow.js", "imports": ["_app/immutable/entry/start.D7MFeWeY.js", "_app/immutable/chunks/entry.Dd7dGoT-.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/entry/app.Cr0VYsow.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"], "stylesheets": [], "fonts": [], "uses_env_dynamic_public": false },
+      client: { "start": "_app/immutable/entry/start.DVlV74qW.js", "app": "_app/immutable/entry/app.uNaceRpX.js", "imports": ["_app/immutable/entry/start.DVlV74qW.js", "_app/immutable/chunks/entry.DDd0QH30.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/entry/app.uNaceRpX.js", "_app/immutable/chunks/scheduler.BAhLphj5.js", "_app/immutable/chunks/index.C1dtmE37.js"], "stylesheets": [], "fonts": [], "uses_env_dynamic_public": false },
       nodes: [
         __memo(() => Promise.resolve().then(() => (init__(), __exports))),
         __memo(() => Promise.resolve().then(() => (init__2(), __exports2))),
@@ -4704,22 +4678,22 @@ var manifest = (() => {
           endpoint: null
         },
         {
-          id: "/MMMAP",
-          pattern: /^\/MMMAP\/?$/,
-          params: [],
-          page: { layouts: [0], errors: [1], leaf: 4 },
-          endpoint: null
-        },
-        {
-          id: "/data_analytics",
-          pattern: /^\/data_analytics\/?$/,
+          id: "/DVRPC",
+          pattern: /^\/DVRPC\/?$/,
           params: [],
           page: { layouts: [0], errors: [1], leaf: 3 },
           endpoint: null
         },
         {
-          id: "/predictive_modeling",
-          pattern: /^\/predictive_modeling\/?$/,
+          id: "/Lime",
+          pattern: /^\/Lime\/?$/,
+          params: [],
+          page: { layouts: [0], errors: [1], leaf: 4 },
+          endpoint: null
+        },
+        {
+          id: "/MMMAP",
+          pattern: /^\/MMMAP\/?$/,
           params: [],
           page: { layouts: [0], errors: [1], leaf: 5 },
           endpoint: null

@@ -14,7 +14,6 @@ In 2024, Lime and the League of American Bicyclists launched the Mobility Insigh
 </p>
 <p>
 I worked extensively on the bike lane analysis component of this project, employing a difference-in-differences approach to assess the impact of new bike lanes on road safety and usage.</p> 
-</p>
 <p> <strong>Tools Used:</strong> R, QGIS, and SQL </p>
 
 <p>
