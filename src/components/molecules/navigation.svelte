@@ -7,7 +7,7 @@
 			<a href="/MMMAP">MMMAP</a>
 		</li>
 		<li>
-			<a href="/Lime">Research & Data Analytics @ Lime</a>
+			<a href="/Lime">Data Analytics @ Lime</a>
 		</li>
 		<li>
 			<a href="/DVRPC">Data Analytics @ DVRPC</a>
