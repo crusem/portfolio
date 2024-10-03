@@ -1,3 +1,6 @@
+<script>
+	import Image from '../../components/atoms/image.svelte';
+</script>
 <style>
   /* Style the <a> tags to inherit color from their parent <p> */
   p a {
@@ -16,8 +19,11 @@ In 2024, Lime and the League of American Bicyclists launched the Mobility Insigh
 I worked extensively on the bike lane analysis component of this project, employing a difference-in-differences approach to assess the impact of new bike lanes on road safety and usage.</p> 
 <p> <strong>Tools Used:</strong> R, QGIS, and SQL </p>
 
+<Image baseUrl="/MIC/" className = image-container alt="Description of your image" />
+
+
 <p>
-  <a href="https://bikeleague.org/wp-content/uploads/2024/09/League-of-American-Bicyclists-Mobility-Insights-Competition-2024-Report-3.pdf">Read the report here!</a>
+  <a href="https://bikeleague.org/wp-content/uploads/2024/09/League-of-American-Bicyclists-Mobility-Insights-Competition-2024-Report-3.pdf">Read the full report here!</a>
 </p>
 
 
