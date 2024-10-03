@@ -26,5 +26,5 @@
 <Image baseUrl="/mmmap_example/" className = image-container alt="Description of your image" />
 
 <p> MMMAP is currently under construction, but if you're curious - 
-  <a href="https://mmmapproject.com" target="_blank">Click here to visit the site!</a> 
+  <a href="https://mmmapproject.com" target="_blank">you can click here to visit the site!</a> 
 </p>
