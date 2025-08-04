@@ -18,7 +18,7 @@
 
 		<h2>Skills</h2>
 		<p>	
-		R, Python, HTML, ArcGISPro, Excel, Django, Github,  JavaScript (Beginner), SQL (Beginner), Tableau (Beginner), Svelte (Beginner), Adobe Illustrator (Beginner), Adobe InDesign (Beginner), Canva		
+		R, Python, SQL, Tableau, HTML, ArcGISPro, Excel, Django, Github, JavaScript (Beginner), Svelte (Beginner), Adobe Illustrator (Beginner), Adobe InDesign (Beginner), Canva		
 		</p>
 	</div>
 </section>
