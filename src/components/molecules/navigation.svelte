@@ -4,13 +4,13 @@
 			<a href="/">Home</a>
 		</li>
 		<li>
-			<a href="/MMMAP">MMMAP</a>
+			<a href="/MMMAP">Music</a>
 		</li>
 		<li>
-			<a href="/Lime">Data Analytics @ Lime</a>
+			<a href="/Cannabis Legalization">Cannabis Legalization</a>
 		</li>
 		<li>
-			<a href="/DVRPC">Data Analytics @ DVRPC</a>
+			<a href="/PedBikeTransit">Pedestrian & Bicycle Friendly Communities</a>
 		</li>
 	</ul>
 </nav>

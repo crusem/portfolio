@@ -13,9 +13,12 @@
 		</p>
 		<h2>Interests</h2>
 		<p>	
-		Data analytics & data viz, spatial analytics, UI Design, community empowerment, equitable cities, and sustainability!	
+		Pedestrian and bicycle friendly communities, music, cannabis legalization, public health, art, sports, reconciling the racial opportunity gap, and liberation!
 		</p>
-
+		<h2>Values</h2>
+		<p>	
+		Anti-Racist, Anti-Imperialist, Anti-Colonialist, advocate for ethical and sustainable consumption, amplifier of Trans and Queer voices
+		</p>
 		<h2>Skills</h2>
 		<p>	
 		R, Python, SQL, Tableau, HTML, ArcGISPro, Excel, Django, Github, JavaScript (Beginner), Svelte (Beginner), Adobe Illustrator (Beginner), Adobe InDesign (Beginner), Canva		
